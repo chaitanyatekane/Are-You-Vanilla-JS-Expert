@@ -1,5 +1,6 @@
 const correctAnswers = ['A', 'A', 'A', 'A'];
 const form = document.querySelector('.quiz-form');
+const result = document.querySelector('.result');
 
 form.addEventListener('submit', e => {
     e.preventDefault();
@@ -14,6 +15,10 @@ form.addEventListener('submit', e => {
             score += 25;
         }
     });
-    console.log(score);
+    
+    // when clicking on submit, it should auto scroll to top of page
+    scrollTo(0,0);
+    result.classList.remove('d-none');
+    result.querySelector('span').textContent = `${score}%`;
 
 });
