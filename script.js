@@ -19,6 +19,16 @@ form.addEventListener('submit', e => {
     // when clicking on submit, it should auto scroll to top of page
     scrollTo(0,0);
     result.classList.remove('d-none');
-    result.querySelector('span').textContent = `${score}%`;
+
+    // animating score while displaying on page
+    let output = 0;
+    const timer = setInterval(() => {
+        result.querySelector('span').textContent = `${output}%`;
+        if(output === score){
+            clearInterval(timer);
+        }else{
+            output++;
+        }
+    }, 10);
 
 });
