@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## About The Project
 <hr/>
 
@@ -31,3 +32,19 @@
 <a href="https://twitter.com/chaitanyatekne"><img alt="Twitter" src="https://img.shields.io/badge/twitter-chaitanyatekane-blue" /></a>
 <a href="https://instagram.com/tekanechaitanya.com?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/instagram-chaitanyatekane-red" /></a>
 </p>
+||||||| b345884 (Update readme)
+# Are-You-Vanilla-JS-Expert
+ 
+### [Live Demo](https://chaitanyatekane.github.io/Are-You-Vanilla-JS-Expert/)
+<br>
+
+### Built With
+* [Vanilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Bootstrap](https://getbootstrap.com/)
+=======
+# Are-You-Vanilla-JS-Expert
+ 
+
+Try
+>>>>>>> parent of b345884 (Update readme)
