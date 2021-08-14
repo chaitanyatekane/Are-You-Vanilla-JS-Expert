@@ -1,7 +1,7 @@
 ## About The Project
 
 
-[Are-You-Vanilla-JS-Expert](https://chaitanyatekane.github.io/Are-You-Vanilla-JS-Expert/) is a small fun quiz, to check if user is aware of vanilla javascript concepts. User will be able to submit quiz and can see score in form of animation.
+[Are-You-Vanilla-JS-Expert](https://chaitanyatekane.github.io/Are-You-Vanilla-JS-Expert/) is a small fun quiz, to check if user is aware of vanilla javascript concepts. User will be able to submit quiz and can see score in form of animation. This web app is hosted using [GitHub Pages](https://pages.github.com/).
 
 ## Live Demo
 
